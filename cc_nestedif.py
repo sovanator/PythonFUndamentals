@@ -7,4 +7,4 @@ elif priceIsRight >= 5 and priceIsRight <= 9:
 elif priceIsRight == 10:
     print("Price is exactly that!")
 else:
-    print("Price is too high!")
+    print("Price is too high!!")
